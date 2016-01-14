@@ -5,7 +5,7 @@ Boogle
 Author
 -------------
 
-TRAORE Oumar - Bachelor 1 - Supinfo Campus de Toulouse
+TRAORE Oumar - Bachelor 1 - Supinfo Campus de Toulouse  
 BAH Balia	 - License 2 - Université Paul Sabatier
 
 ----------
